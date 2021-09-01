@@ -6,27 +6,27 @@ I also open to discussions and free talk, so be sure to hit me up on linkedIn or
 
 #### Currently Learning :
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2335495e.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Green Sock](https://img.shields.io/badge/GSAP-33CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 
 #### Contacts info:
 
 <a href="https://www.linkedin.com/in/mifbaihaqi/">
-<img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="30"/>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/randomdudes00">
-<img src="https://image.flaticon.com/icons/png/512/60/60580.png" width="30"/>
+<img src="https://img.shields.io/badge/Twitter-00B2FF?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/effendi_kiki">
-<img src="https://image.flaticon.com/icons/png/512/61/61164.png" width="30"/>
-</a>
+<!-- <a href="https://www.instagram.com/effendi_kiki">
+<img src="https://img.shields.io/badge/Instagram-EF1970?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a> -->
 
 <br>
 
