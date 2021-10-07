@@ -1,10 +1,9 @@
 
-## Hello, I'm Baihaqi! 😄👋
-I'm a passionate Frontend Developer who loves to explore UI designs. <br>
+## Hello, I'm Baihaqi! 👋
 Feel free to look around my repos, I hope you found something interesting there. <br>
 I also open to discussions and free talk, so be sure to hit me up on linkedIn or Twitter!
 
-#### Currently Learning :
+#### Main Techs :
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2335495e.svg?style=for-the-badge&logo=react&logoColor=blue)
@@ -33,5 +32,5 @@ I also open to discussions and free talk, so be sure to hit me up on linkedIn or
 <!-- ## GitHub Stats -->
 
 
-<!-- ![https://github.com/effendikiki/effendikiki](https://github-readme-stats.vercel.app/api?username=effendikiki&show_icons=true&hide_rank=true&theme=vue) -->
+<!-- ![https://github.com/effendikiki/effendikiki](https://github-readme-stats.vercel.app/api?username=firdausbaihaqi&show_icons=true&hide_rank=true&theme=vue) -->
 <!-- ![https://github.com/effendikiki/effendikiki](https://github-readme-stats.vercel.app/api/wakatime?username=@effendikiki&langs_count=7&theme=vue) -->
