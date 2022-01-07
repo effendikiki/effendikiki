@@ -12,7 +12,7 @@ I also open to discussions and free talk, so be sure to hit me up on linkedIn or
 <br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Green Sock](https://img.shields.io/badge/GSAP-33CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-B11CD0?style=for-the-badge&logo=framer&logoColor=white)
 
 
 #### Contacts info:
